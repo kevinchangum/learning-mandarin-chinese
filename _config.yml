@@ -1,0 +1,31 @@
+# Site settings
+title: Learning Mandaring Chinese
+email: example@gmail.com
+description: "Learning the Mandarin Chinese language together."
+keywords: "chinese, mandarin, language"
+url: "https://kevinchangum.github.io/learning-mandarin-chinese" 
+baseurl: "" # the subpath of your site, e.g. /blog/
+paginate: 5
+paginate_path: "page:num"
+# Build settings
+markdown: kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: :compressed
+links:
+  facebook: exampleuser
+  twitter: exampleuser
+  email: example@gmail.com
+  github: kevinchangum/
+exclude:
+  - bower_components
+  - README.md
+full_name: Kevin
+
+##set this to enable disqus commenting
+#disqus: kevinchangum
+
+##set this to enable google analytics
+#ga_id: analyticsID
+#ga_domain: bitwiser.in
