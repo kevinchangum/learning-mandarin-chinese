@@ -3,8 +3,8 @@ title: Towards Mandarin Fluency
 email: 
 description: "Learning the Mandarin Chinese language together."
 keywords: "chinese, mandarin, language"
-url: "https://kevinchangum.github.io/towardsmandarinfluency/" 
-baseurl: "/towardsmandarinfluency/" # the subpath of your site, e.g. /blog/
+url: "https://kevinchangum.github.io/towardsmandarinfluency" 
+baseurl: "towardsmandarinfluency" # the subpath of your site, e.g. /blog/
 paginate: 5
 paginate_path: "page:num"
 # Build settings
